@@ -1,4 +1,4 @@
-# Titanic-dataset-bharath_intern
+
 # Titanic-Survival-Prediction
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
